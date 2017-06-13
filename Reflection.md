@@ -16,5 +16,5 @@ This is exptected to be small because there is no significant steady disturbanc.
 Derivative: 5
 This is expeted to be large because the error for the steering angle is large and can cause overshoot which this attempts to correct.
 
-[alt text][video1]
+[Video][video1]
 
