@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Reflections
 
-[video1]: ./PID.mp4 "Video"
+[video1]: ./PID.mov "Video"
 
 The PID parameters were set to:
 
